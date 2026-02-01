@@ -1,4 +1,4 @@
-# Medical Data Query System 🏥
+# Medical Data Query System 
 
 Doctors, researchers, and CROs frequently require specific datasets—such as "adverse event data for patients over age 50"—but often lack the technical expertise to query databases directly. Consequently, they are forced to email data analysts for these requests, creating a dependency that causes delays and disrupts their research momentum. By implementing an AI-powered query system using LLaMA 3.1 and the Model Context Protocol (MCP), we can bridge this gap. This solution enables non-technical stakeholders to retrieve data independently using natural language, saving time and allowing them to maintain their workflow without interruptions.
 
