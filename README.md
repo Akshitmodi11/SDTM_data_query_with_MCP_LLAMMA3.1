@@ -1,7 +1,6 @@
 # Medical Data Query System 🏥
 
-AI-powered medical data query system using LLaMA 3.1 for natural language to SQL conversion.
-Problem: Doctor or CRO needed a data with somekind of data, but researched are not analyst they generally sending email they want adverse event patient data with age 50 or others with this MCP server and LLama this problem is saving  and coctor or researcher can do work independently without breaking a momentum. 
+Doctors, researchers, and CROs frequently require specific datasets—such as "adverse event data for patients over age 50"—but often lack the technical expertise to query databases directly. Consequently, they are forced to email data analysts for these requests, creating a dependency that causes delays and disrupts their research momentum. By implementing an AI-powered query system using LLaMA 3.1 and the Model Context Protocol (MCP), we can bridge this gap. This solution enables non-technical stakeholders to retrieve data independently using natural language, saving time and allowing them to maintain their workflow without interruptions.
 
 ## Features
 
