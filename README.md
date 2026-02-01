@@ -4,11 +4,11 @@ Doctors, researchers, and CROs frequently require specific datasets—such as "a
 
 ## Features
 
-✅ Natural language queries for clinical trial data  
-✅ LLaMA 3.1 powered SQL generation  
-✅ Web-based chat interface  
-✅ PDF report generation  
-✅ Support for CDISC SDTM data format  
+--Natural language queries for clinical trial data  
+--LLaMA 3.1 powered SQL generation  
+--Web-based chat interface  
+--PDF report generation  
+--Support for CDISC SDTM data format  
 
 ## Architecture
 ```
