@@ -1,6 +1,7 @@
 # Medical Data Query System 🏥
 
 AI-powered medical data query system using LLaMA 3.1 for natural language to SQL conversion.
+Problem: Doctor or CRO needed a data with somekind of data, but researched are not analyst they generally sending email they want adverse event patient data with age 50 or others with this MCP server and LLama this problem is saving  and coctor or researcher can do work independently without breaking a momentum. 
 
 ## Features
 
@@ -80,7 +81,8 @@ Navigate to: `http://localhost:3000`
 
 ## Example Queries
 
-- "Find patients over 65"
+-"give me data with from DEMOGRAPHIC table"
+- "Find patients over 65 with adverse event"
 - "Show serious adverse events"
 - "Get patients with diabetes"
 - "Show lab results for female patients"
@@ -105,8 +107,8 @@ Supports CDISC SDTM clinical trial data:
 
 ## License
 
-MIT
+
 
 ## Author
 
-Built with ❤️ for medical research
+Built with SDTM for medical research. 
