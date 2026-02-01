@@ -1,0 +1,24 @@
+{
+  "name": "medical-mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "import": "node scripts/import-data.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Medical data query MCP server with LLaMA integration",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0",
+    "better-sqlite3": "^11.0.0",
+    "cors": "^2.8.6",
+    "csv-parser": "^3.0.0",
+    "express": "^5.2.1",
+    "ollama": "^0.5.0",
+    "pdf-lib": "^1.17.1"
+  }
+}
