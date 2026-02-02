@@ -109,5 +109,4 @@ Supports CDISC SDTM clinical trial data:
 
 
 ## Author
-
-Built with SDTM for medical research. 
+Akshit Modi
