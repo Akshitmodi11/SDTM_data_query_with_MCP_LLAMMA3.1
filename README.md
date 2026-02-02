@@ -104,7 +104,8 @@ Supports CDISC SDTM clinical trial data:
 - **CM** - Concomitant Medications
 - **MH** - Medical History
 
-##Demo
+## Demo
+
 [![Watch the video](https://img.youtube.com/vi/b_XKeZtKIjU/0.jpg)](https://www.youtube.com/watch?v=b_XKeZtKIjU)
 
 
