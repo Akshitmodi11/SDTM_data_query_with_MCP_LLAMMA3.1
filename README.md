@@ -105,7 +105,7 @@ Supports CDISC SDTM clinical trial data:
 - **MH** - Medical History
 
 ##Demo
-[![Watch the video]([https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)]
+[![Watch the video](https://img.youtube.com/vi/b_XKeZtKIjU/0.jpg)](https://www.youtube.com/watch?v=b_XKeZtKIjU)
 
 
 ## License
